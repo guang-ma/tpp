@@ -13,3 +13,10 @@ where $V_{i}$ is the vector of firm $i$’s sales with the $k^{th}$
 element being the share of firm  $i$’s total sales in the preceding two years made in
 industry (4-digit SIC) $k$. A higher value of TPP indicates more intense competition
 faced by the sample firm. 
+# TPP Measure Data
+- Data format: STATA .dat file
+- Data coverage: Fiscal years 1990-2019
+- Frequency: Firm-year
+- Variables: GVKEY, FYEAR (fiscal year), TPP
+
+  <a href='tpp.dat'>Download TPP Data Here</a>
