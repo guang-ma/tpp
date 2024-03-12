@@ -19,4 +19,4 @@ faced by the sample firm.
 - Frequency: Firm-year
 - Variables: GVKEY, FYEAR (fiscal year), TPP
 
-  <a href='tpp.dat'>Download TPP Data Here</a>
+  <a href='./tpp.dat'>Download TPP Data Here</a>
